@@ -1,8 +1,4 @@
-
-
-〽️*enderesKoc/README.md*
-
-                            
+                    
                                 
 
                                              Hi👋 
