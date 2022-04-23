@@ -1,5 +1,3 @@
-*mendereskoc/README.md*
-
 <h1 align="center"> Hi there, I'm Menderes👋 </h1>
 
 _*I'm currently graduated from Columbia Engineering Full Stack Web Developer Coding Boot Camp, I'm excited to leverage my skills as part of a fast-paced,quality-driven team to build better experiences on the web.*_
