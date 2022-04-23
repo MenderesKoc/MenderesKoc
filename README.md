@@ -1,26 +1,29 @@
-# Hi there, I'm Menderes👋 
+mendereskoc/README.md
 
-I'm currently graduated from Columbia Engineering Full Stack Web Developer Coding Boot Camp, I'm excited to leverage my skills as part of a fast-paced,quality-driven team to build better experiences on the web.
+<h1 align="center"> Hi there, I'm Menderes👋 </h1>
 
-## I'm a Junior web developer|Front-end 
+_*I'm currently graduated from Columbia Engineering Full Stack Web Developer Coding Boot Camp, I'm excited to leverage my skills as part of a fast-paced,quality-driven team to build better experiences on the web.*_
+<p align="center"> (Open for Hiring)</p>
+<hr>
+<h1 align="center"> I'm a Junior web developer|Front-end</h1>
 
-- 🔭 Check out my porttfolio : [MenderesKoc](https://mendereskoc.github.io/Menderes-Koc-Portfolio/)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about javascript to be master
-- ⚡ Fun fact: I love coding,really😄
-- 🙂 Pronouns: ...He/Him
+- 🔭*Check out my porttfolio*: [MenderesKoc](https://mendereskoc.github.io/Menderes-Koc-Portfolio/)
+- 🌱*I’m currently learning everything*🤣
+- 👯*I’m looking to collaborate with other content creators*
+- 🥅*2022 Goals: Learn more about javascript to be master*
+- ⚡*Fun fact: I love coding,really*😄
+- 🙂*Pronouns: ...He/Him*
+<hr>
 
-### Connect with me:
+<h2  align="center">📫 Connect with me </h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/mendereskoc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Mendereskoc4"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mndrs.kc@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Mendereskoc4#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Mendereskoc4#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mendereskoc/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mendereskoc/#gh-dark-mode-only)
-
-### Languages and Tools:
+<hr>
+<h2 align="center"> 🔭 Languages and Tools 👨‍💻</h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -33,15 +36,14 @@ I'm currently graduated from Columbia Engineering Full Stack Web Developer Codin
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
 <br>
 <br>
-
+<hr>
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mendereskoc&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mendereskoc&show_icons=true&hide_border=true" />
 </details>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
