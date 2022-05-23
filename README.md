@@ -41,6 +41,7 @@ _*I'm currently graduated from Columbia Engineering Full Stack Web Developer Cod
 <br>
 <br>
 <hr>
+![menderes koc GitHub stats](https://github-readme-stats.vercel.app/api?username=mendereskoc&theme=dark&show_icons=true)
   <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mendereskoc&show_icons=true&hide_border=true" />
 
