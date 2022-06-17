@@ -3,7 +3,7 @@
 _*I'm currently graduated from Columbia Engineering Full Stack Web Developer Coding Boot Camp, I'm excited to leverage my skills as part of a fast-paced,quality-driven team to build better experiences on the web.*_
 <p align="center"> (Open for Hiring)</p>
 <hr>
-<h1 align="center"> I'm a Junior web developer|Front-end</h1>
+<h1 align="center"> I'm a Junior Software Developer |Front-end</h1>
 
 - 🔭*Check out my porttfolio*: [MenderesKoc](https://mendereskoc.github.io/Menderes-Koc-Portfolio/)
 - 🌱*I’m currently learning everything*🤣
