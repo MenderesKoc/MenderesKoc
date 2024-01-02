@@ -8,9 +8,8 @@ _*I'm currently graduated from Columbia Engineering Full Stack Web Developer Cod
 - 🔭*Check out my porttfolio*: [MenderesKoc](https://mendereskoc.github.io/Menderes-Koc-Portfolio/)
 - 🌱*I’m currently learning everything*🤣
 - 👯*I’m looking to collaborate with other content creators*
-- 🥅*2022 Goals: Learn more about javascript to be a master*
+- 🥅*2023 Goals: Learn more about Java to be a master*
 - ⚡*Fun fact: I love coding, really*😄
-- 🙂*Pronouns: ...He/Him*
 <hr>
 
 <h2  align="center">📫 Connect with me </h2>
